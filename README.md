@@ -1,6 +1,6 @@
 # Hi there 👾
 
-I'm a computer engineering student, based in Istanbul. I have a keen interest in overall technology and science but I'm currently focusing on mobile development and design. I have experience with various mobile development frameworks and I really enjoy creating dummy apps & games. I'm also into art and design. I'm familiar with most of the Adobe Creative tools and Figma. Don't know how you reached this adress in the world wide web but, I hope you like my work. Thnx
+I'm a computer engineering student, based in Istanbul. I have a keen interest in overall technology and science but I'm currently focusing on mobile development and design. I have experience with various mobile development frameworks and I really enjoy creating dummy apps & games. I'm also into art and design. I'm familiar with most of the Adobe Creative tools and Figma. Don't know how you reached this adress in the world wide web but, thanks for tuning in.
 
 ## Education
 
