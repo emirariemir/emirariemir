@@ -1,34 +1,27 @@
-# Hi there, I'm Emir! 👋
+# Hi there 👾
 
-I'm a computer engineering student based in Istanbul with a love for coding and a keen interest in various areas of technology and design.
+I'm a computer engineering student, based in Istanbul. I have a keen interest in overall technology and science but I'm currently focusing on mobile development and design. I have experience with various mobile development frameworks and I really enjoy creating dummy apps & games. I'm also into art and design. I'm familiar with most of the Adobe Creative tools and Figma. Don't know how you reached this adress in the world wide web but, I hope you like my work. Thnx
 
-## About Me
+## Education
 
-- 🎓 Computer Engineering Student (Istanbul)
-- 🌐 Exploring AI and Machine Learning (Just like everyone else...)
-- 📱 Big Interest in Mobile App and Game Development
-- 🖥️ Frontend and Backend Developer-in-Training
-- ✨ Experienced Graphic Designer and Illustrator
-- 🎾 Former Professional Tennis Player (I wasn't that good actually)
+Bahcesehir University - Computer Engineering (2025, expected graduation)
 
-## What I Do
+## Key Things I'm Good At
 
-I enjoy making art and writing code together, creating engaging user interfaces for my projects. I am currently testing out my Swift & SwiftUI skills by creating dummy projects with Xcode. I spend most of time learning stuff, I couldn't put everything in here, but generally, I am proficent with mobile app frameworks and making games and illustrating stuff.
+- Swift & SwiftUI, UIKit, iOS development, Xcode
+- React Native, TypeScript & JavaScript, Cross-platform development
+- Flutter, Dart, Visual Studio Code
+- Unity, C#, 2D & 3D Art, Game development
+- Java, Android Studio, Native Android Development, Firebase
+- Adobe Creative Suit (mostly Illustrator, Photoshop, After Effects, Dimension, Premier), Graphic Design, Motion Design
+- Figma, UI & UX design
+- Procreate, Illustration, sketches
 
-## My Skills
+This list may seen like mumbo-jumbo word-crowd, but I think this is the best way to showcase my knowledge and experience.
 
-- 🖌️ UI/UX Design & Illustration
-- 📱 Mobile App Development (iOS and Android)
-- 🎮 Game Development (Unity)
-- 💻 Frontend Development (HTML, CSS, JavaScript)
-- ⚙️ Backend Development (Currently learning, I enrolled to Database course this semester)
+## Contact Information
 
-## Connect with Me
-
-- 🌐 My Website: [Portfolio](https://emirari.com/)
 - 📧 Email: emirariomatic@gmail.com
 - 💼 LinkedIn: [Emir Arı](https://www.linkedin.com/in/emirari/)
 
-Feel free to explore my repositories for more of my coding adventures! 🚀
-
-And also feel free to reach me.
+Feel free to reach out to me through LinkedIn, or mail me. Whichever suits you the most.
