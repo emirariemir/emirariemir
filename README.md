@@ -17,7 +17,7 @@ Bahcesehir University - Computer Engineering (2025, expected graduation)
 - Figma, UI & UX design
 - Procreate, Illustration, sketches
 
-This list may seen like mumbo-jumbo word-crowd, but I think this is the best way to showcase my knowledge and experience.
+This list _may_ _seen_ like mumbo-jumbo word-crowd, but I think this is the best way to showcase my knowledge and experience.
 
 ## Contact Information
 
