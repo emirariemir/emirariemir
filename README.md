@@ -13,7 +13,7 @@ Bahcesehir University - Computer Engineering (2025, expected graduation)
 - Flutter, Dart, Visual Studio Code
 - Unity, C#, 2D & 3D Art, Game development
 - Java, Android Studio, Native Android Development, Firebase
-- Adobe Creative Suit (mostly Illustrator, Photoshop, After Effects, Dimension, Premier), Graphic Design, Motion Design
+- Adobe Creative Suit, Graphic Design, Motion Design
 - Figma, UI & UX design
 - Procreate, Illustration, sketches
 
